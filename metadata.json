@@ -1,0 +1,6 @@
+{
+  "name": "KAS WARGA",
+  "description": "Sistem Manajemen Keuangan & Kas Komunitas RT/RW Indonesia yang transparan, akuntabel, dan terintegrasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
